@@ -12,7 +12,8 @@ Run program with the .exe;
 	 * It then assigns them a random phone number.
 	 *
 	 * 
-	 * Each person is created by selecting a name at random from one of the two files included. (First Names & Last Names)
+	 * Each person is created by selecting a name at random from one of the two files included.
+	 * (firstnames.txt & lastnames.txt)
 	 *
 	 * This list of people (nodes) is then entered into an AVL tree where the user can search for
 	 * specific enteries (by First/Last name or Phone Number).
