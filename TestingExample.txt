@@ -1,0 +1,163 @@
+--------------------------------------------------
+  Welcome to Amber Pages, a phone book simulator! 
+	Created By: David Heck
+--------------------------------------------------
+
+
+Please specify how large you would like the phonebook to be (Natural Numbers Only): 100
+
+Generating...
+Done!
+
+Search By First Name (a) | Search By Last Name (b) | Search By Number (c) | Print Phonebook (d)
+How would you like to interact with your phonebook?
+d
+Printing Phone Book...
+
+ALCOCK, CAMERON	 	 	+1(080)9496128
+ALMONTE, ESTEFANA	 	+1(271)8111807
+AMOROSO, LASHON	 	 	+1(791)5775304
+BEGEMAN, BRIANNE	 	+1(570)4772343
+BEVILL, ALISON	 	 	+1(897)7632953
+BLESER, JOHNNIE	 	 	+1(982)3225174
+BONET, TINISHA	 	 	+1(970)6276682
+BOSCO, RANEE	 	 	+1(602)5602532
+BRISSON, ROSALINE	 	+1(794)9824850
+BRUBECK, EDMUND	 	 	+1(727)2008909
+BRUCKER, SHAINA	 	 	+1(802)3787866
+BURCIAGA, DELSIE	 	+1(369)4193173
+CABELLO, SHELA	 	 	+1(376)5026740
+CARMODY, ISABEL	 	 	+1(514)7388084
+CASTONGUAY, AMMIE	 	+1(183)5912339
+CAUDILL, ROSAMARIA	 	+1(403)2190342
+CAVALIERE, BERNARDA	 	+1(847)5364038
+CHASTEEN, CARMELA	 	+1(700)0046574
+COUFAL, DELILAH	 	 	+1(674)8327267
+DARRINGTON, MELYNDA	 	+1(140)1654836
+DESPAIN, KEELEY	 	 	+1(008)0793037
+DEVANE, BONITA	 	 	+1(945)1699397
+DOLPH, PABLO	 	 	+1(950)8948925
+DONIS, JERALDINE	 	+1(235)8352851
+DOOLIN, DALENE	 	 	+1(708)8461320
+DURR, YVETTE	 	 	+1(176)8737816
+EARLES, CELINA	 	 	+1(867)1774440
+EMCH, MA	 	 	+1(357)8922872
+ERION, MANUEL	 	 	+1(371)0288976
+FATH, JERRY	 	 	+1(316)6185804
+FICKLING, MICKI	 	 	+1(570)2724439
+FREDERICK, TONITA	 	+1(512)6051359
+GEERS, LATARSHA	 	 	+1(581)9857946
+GORNICK, CHRISTIAN	 	+1(777)4110703
+GRAEF, LEONOR	 	 	+1(808)1479885
+GULOTTA, VIOLET	 	 	+1(339)1044516
+HARNOIS, OSWALDO	 	+1(443)2365510
+HASKEW, TEODORO	 	 	+1(423)6423974
+HENCE, KING	 	 	+1(190)3984498
+HISE, CARLO	 	 	+1(250)3264947
+HOUSDEN, HALLEY	 	 	+1(530)1357691
+JARDIN, NEVADA	 	 	+1(396)3745511
+JELLISON, LORENZO	 	+1(420)7143906
+KAMALII, VIKKI	 	 	+1(628)1360574
+KENNA, HYON	 	 	+1(640)9159512
+KIJOWSKI, MARYLAND	 	+1(897)0729179
+KIRKER, ESTRELLA	 	+1(257)1660975
+KOCUREK, LANG	 	 	+1(106)4414444
+KOK, BERNARDINA	 	 	+1(916)7474007
+KONO, MAVIS	 	 	+1(650)1852938
+LACINA, GRAIG	 	 	+1(874)6227880
+LAFORTE, KENDALL	 	+1(137)6334238
+LAWLOR, GENNIE	 	 	+1(306)5855966
+LEDERER, WANDA	 	 	+1(315)2558652
+LEIBEL, AUDRIE	 	 	+1(612)0333324
+LIEBER, ANNELIESE	 	+1(699)1011043
+LILJENQUIST, LANNY	 	+1(539)6020947
+MARBURY, SUN	 	 	+1(961)5598432
+MARTIN, DORIE	 	 	+1(640)4479436
+MCKAIN, LUELLA	 	 	+1(449)2255958
+MERVIS, DIEDRE	 	 	+1(470)7510097
+MORTIMER, TONI	 	 	+1(191)9103291
+MULROY, MARIBETH	 	+1(735)5093972
+NAFF, MARCIA	 	 	+1(371)8677789
+NAKANISHI, EDDA	 	 	+1(153)2082119
+NIMMONS, WILLIEMAE	 	+1(214)2022723
+OSIKA, MARICRUZ	 	 	+1(402)0062453
+OVERTON, CORETTA	 	+1(515)6943009
+PARR, QUINTON	 	 	+1(821)8057116
+PEDROSO, PIA	 	 	+1(695)9648142
+PENNINGTON, EVELIA	 	+1(179)7931509
+PINEO, VESTA	 	 	+1(598)1690030
+POULTER, MERISSA	 	+1(310)1011890
+QUINTAL, HELENA	 	 	+1(442)8700436
+RAVEN, DOLORES	 	 	+1(462)3620559
+REDDOUT, SHEMIKA	 	+1(644)7944973
+ROIGER, DOT	 	 	+1(210)9021492
+SAILOR, RAMON	 	 	+1(691)5565317
+SALOMON, DULCE	 	 	+1(888)8275603
+SCHALL, ROBIN	 	 	+1(102)6245690
+SCHURMAN, ODETTE	 	+1(446)8155960
+SERRANO, HILDA	 	 	+1(623)6876502
+SHULTZ, FLAVIA	 	 	+1(502)8430720
+SOUTHALL, KERMIT	 	+1(116)2858540
+STROSE, AZZIE	 	 	+1(503)7446655
+TAYBRON, WILSON	 	 	+1(589)6435740
+THAMMAVONG, MAN	 	 	+1(072)5642414
+THOMSON, ISABELL	 	+1(093)8363034
+THREATT, MIN	 	 	+1(155)6043764
+TOMASEK, JANICE	 	 	+1(924)8608878
+TOPPIN, JONAH	 	 	+1(642)5577605
+TURGEON, QUINCY	 	 	+1(598)1203717
+URENO, ROXANNE	 	 	+1(734)1380119
+USHER, PHILLIS	 	 	+1(428)9902247
+VANWERT, DICK	 	 	+1(475)6101674
+WEIRICH, FABIAN	 	 	+1(441)3874811
+WICE, ATHENA	 	 	+1(762)0783555
+WILBUR, BEVERLY	 	 	+1(827)6074043
+YETTER, KARINE	 	 	+1(911)2539010
+YOUNES, LEOMA	 	 	+1(930)6162896
+
+Done!
+
+
+Return to selection screen? (y/n): 
+y
+Search By First Name (a) | Search By Last Name (b) | Search By Number (c) | Print Phonebook (d)
+How would you like to interact with your phonebook?
+b
+
+	 Search By Last Name
+Please enter a Last Name to search for (Please use all CAPS): SAILOR
+Results:
+
+Last name found! Here is the information relating to Mr./Mrs. SAILOR: 
+SAILOR, RAMON	 	 	+1(691)5565317
+
+Return to selection screen? (y/n): 
+y
+Search By First Name (a) | Search By Last Name (b) | Search By Number (c) | Print Phonebook (d)
+How would you like to interact with your phonebook?
+c
+
+	 Search By Phone Number
+Please enter a Phone Number to search for (Format: +1(xxx)xxxxxxx) : +1(691)5565317
+Results:
+
+Number found! Here is the information related to the number +1(691)5565317: 
+SAILOR, RAMON	 	 	+1(691)5565317
+
+Return to selection screen? (y/n): 
+y
+Search By First Name (a) | Search By Last Name (b) | Search By Number (c) | Print Phonebook (d)
+How would you like to interact with your phonebook?
+a
+
+	 Search By First Name
+Please enter a First Name to search for (Please use all CAPS): RAMON
+Results:
+
+First name found! Here is the information related to RAMON: 
+SAILOR, RAMON	 	 	+1(691)5565317
+
+Return to selection screen? (y/n): 
+n
+
+Goodbye!
