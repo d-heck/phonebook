@@ -11,8 +11,8 @@ Run program with the .exe;
 	 * This project is a phonebook simulator, it generates people (nodes) with first and last names.
 	 * It then assigns them a random phone number.
 	 *
-	 * Each person is created by selecting a name at random from one of the two files included.
-   * (First Names & Last Names)
+	 * 
+	 * Each person is created by selecting a name at random from one of the two files included. (First Names & Last Names)
 	 *
 	 * This list of people (nodes) is then entered into an AVL tree where the user can search for
 	 * specific enteries (by First/Last name or Phone Number).
@@ -29,4 +29,4 @@ Run program with the .exe;
 	 * this file is not used in the program at all since it is not intended to be.
 	 *
 	 * Thanks!
-   */
+	 */
